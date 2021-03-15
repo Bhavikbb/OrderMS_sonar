@@ -13,9 +13,7 @@ public class ProductsOrderedIdusingIdClass implements Serializable {
 	private int orderid;
 	private int prodid;
 	
-	public ProductsOrderedIdusingIdClass() {
-		
-	}
+	
 	public ProductsOrderedIdusingIdClass(int orderid,int prodid) {
 		this.orderid=orderid;
 		this.prodid=prodid;
