@@ -43,9 +43,7 @@ public class ProductsOrdered {
 		this.orderid = orderid;
 	}
 
-	public ProductsOrdered() {
-	super();
-      }
+	
 	
 	public int getProdid() {
 		return prodid;
